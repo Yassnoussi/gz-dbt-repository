@@ -3,6 +3,7 @@ version : 2
 sources:
   - name: raw
     schema: gz_raw_data
+    description: ventes de greenwz
     tables:
       
     - name: sales
